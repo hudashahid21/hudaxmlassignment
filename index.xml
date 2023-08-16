@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="index.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+<?xml-model href="index.dtd" type="application/xml-dtd"?>
+<HN-Stationary>
+<Products>
+<Product-Id>001</Product-Id>
+<Product-Name>Pencil</Product-Name>
+<Quantity>12000 units</Quantity>
+<Price-per-unit>10</Price-per-unit>
+<Price-per-dozen>110</Price-per-dozen>
+<stock>Yes</stock>
+   </Products>
+    <Products>
+    <Product-Id>002</Product-Id>
+    <Product-Name>Pen</Product-Name>
+    <Quantity>6000 units</Quantity>
+    <Price-per-unit>60</Price-per-unit>
+    <Price-per-dozen>700</Price-per-dozen>
+    <stock>Yes</stock>
+    </Products>
+    <Products>
+    <Product-Id>003</Product-Id>
+    <Product-Name>Eraser</Product-Name>
+    <Quantity>15000 units</Quantity>
+    <Price-per-unit>7</Price-per-unit>
+    <Price-per-dozen>80</Price-per-dozen>
+    <stock>Yes</stock>
+    </Products>
+    <Products>
+    <Product-Id>004</Product-Id>
+    <Product-Name>Sharpener</Product-Name>
+    <Quantity>0 units</Quantity>
+    <Price-per-unit>10</Price-per-unit>
+    <Price-per-dozen>110</Price-per-dozen>
+    <stock>No</stock>
+    </Products>
+    <Products>
+        <Product-Id>005</Product-Id>
+        <Product-Name>Board Marker</Product-Name>
+        <Quantity>500 units</Quantity>
+        <Price-per-unit>80</Price-per-unit>
+        <Price-per-dozen>900</Price-per-dozen>
+        <stock>Yes</stock>
+        
+
+        </Products>
+</HN-Stationary>
